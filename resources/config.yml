@@ -1,0 +1,6 @@
+mysql-credentials:
+  hostname: 127.0.0.1
+  username: root
+  password: ""
+  database: hythoria
+  port: 3306

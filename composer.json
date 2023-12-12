@@ -1,0 +1,14 @@
+{
+    "require": {
+        "predis/predis": "^2.2",
+        "ext-pmmpthread": "*"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "": [
+                "src"
+            ]
+        }
+    }
+}

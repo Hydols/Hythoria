@@ -1,2 +1,4 @@
 # Hythoria
-The main core of this server
+Hythoria is the main core of Hydols, but it is discontinued.
+
+Do not use this on production servers.
